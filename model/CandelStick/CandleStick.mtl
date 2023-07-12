@@ -1,0 +1,21 @@
+# Blender 3.4.0 MTL File: 'None'
+# www.blender.org
+
+newmtl 材质
+Kd 0.50 0.50 0.50
+Ks 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+
+# Ns 250.000000
+# Ka 1.000000 1.000000 1.000000
+# Ks 0.500000 0.500000 0.500000
+# Ke 0.000000 0.000000 0.000000
+# Ni 1.450000
+# d 1.000000
+illum 2
+map_Kd 	Candle_Stick_BaseColor.png
+disp                Candle_Stick_Height.png
+map_Ks           Candle_Stick_Metallic2.png
+map_Bump     Candle_Stick_Normal.png

@@ -1,0 +1,15 @@
+newmtl Candle
+illum 3
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+# Tf 1.00 1.00 1.00
+# Ni 1.00
+
+map_Kd  		candle_diff.jpg
+#disp		          Candle_LP_Candle_Height.png
+#map_Ks 		Candle_LP_Candler_Metallic.png
+#map_Bump 	Candle_LP_Candle_Normal.png
+
+# map_d	          Candle_LP_Candle_Roughness.png
+# 当前modle 类中未定义roughness部分
+	

@@ -1,0 +1,14 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+
+map_Kd          Cup_and_Holder_BaseColor.png
+disp                Cup_and_Holder_Height.png
+map_Ks           Cup_and_Holder_Metallic.png
+map_Bump     Cup_and_Holder_Normal.png
+
+# map_d            Cup_and_Holder_Roughness.png
+# 当前modle 类中未定义roughness部分
